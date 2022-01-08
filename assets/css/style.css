@@ -9,7 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  direction: rtl;
+  font-family:vazir, "Open Sans", sans-serif;
   color: #fff;
   background: url("../img/bg.jpg") top center no-repeat;
   background-size: cover;
@@ -41,7 +42,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family:vazir, "Raleway", sans-serif;
 }
 
 #main {
@@ -151,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
   padding: 6px 10px;
   position: relative;
-  text-align: left;
+  text-align: right;
 }
 #header .subscribe .subscribe-form input[type=email] {
   border: 0;
@@ -308,7 +309,7 @@ section {
 .contact .info i {
   font-size: 20px;
   color: #fff;
-  float: left;
+  float: right;
   width: 44px;
   height: 44px;
   background: rgba(255, 255, 255, 0.1);
