@@ -4,10 +4,209 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67348836-a79d-4727-800d-ad4e5546f643" name="Changes" comment="first upload">
+    <list default="true" id="67348836-a79d-4727-800d-ad4e5546f643" name="Changes" comment="نصب فونت وزیر">
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Black-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Black-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Black-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Black-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Bold-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Bold-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Bold-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Bold-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Light-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Light-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Light-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Light-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Medium-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Medium-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Medium-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Medium-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Regular-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Regular-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Regular-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Regular-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Thin-FD.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Thin-FD.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Thin-FD.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Farsi-Digits/Vazir-Thin-FD.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Black-FD-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Bold-FD-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Light-FD-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Medium-FD-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Regular-FD-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits-Without-Latin/Vazir-Thin-FD-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Black-FD-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Black-FD-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Black-FD-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Black-FD-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Bold-FD-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Bold-FD-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Bold-FD-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Bold-FD-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Light-FD-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Light-FD-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Light-FD-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Light-FD-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Medium-FD-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Medium-FD-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Medium-FD-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Medium-FD-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Regular-FD-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Regular-FD-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Regular-FD-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Regular-FD-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Thin-FD-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Thin-FD-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Thin-FD-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Farsi-Digits/Vazir-Thin-FD-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Black-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Black-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Black-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Black-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Bold-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Bold-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Bold-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Bold-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Light-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Light-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Light-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Light-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Medium-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Medium-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Medium-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Medium-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Regular-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Regular-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Regular-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Regular-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Thin-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Thin-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Thin-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Vazir-Thin-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Black-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Black-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Black-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Black-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Bold-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Bold-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Bold-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Bold-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Light-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Light-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Light-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Light-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Medium-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Medium-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Medium-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Medium-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Regular-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Regular-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Regular-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Regular-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Thin-WOL-UI.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Thin-WOL-UI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Thin-WOL-UI.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/UI/Without-Latin/Vazir-Thin-WOL-UI.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Variable.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Variable.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Variable.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Vazir-Variable.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Black-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Black-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Black-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Black-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Bold-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Bold-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Bold-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Bold-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Light-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Light-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Light-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Light-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Medium-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Medium-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Medium-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Medium-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Regular-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Regular-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Regular-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Regular-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Thin-WOL.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Thin-WOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Thin-WOL.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/Without-Latin/Vazir-Thin-WOL.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/vazir-font-v30.1.0/vazir.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +216,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,10 +243,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +259,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641660133478</updated>
       <workItem from="1641660142449" duration="824000" />
-      <workItem from="1641661008771" duration="2894000" />
+      <workItem from="1641661008771" duration="3239000" />
     </task>
     <task id="LOCAL-00001" summary="first upload">
       <created>1641660464783</created>
@@ -74,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641661478133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="نصب فونت وزیر">
+      <created>1641667563793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641667563793</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +309,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="first upload" />
+    <MESSAGE value="نصب فونت وزیر" />
+    <option name="LAST_COMMIT_MESSAGE" value="نصب فونت وزیر" />
   </component>
 </project>
